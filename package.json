@@ -1,0 +1,19 @@
+{
+  "name": "minebot",
+  "version": "1.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "node": "^16.6.0"
+  },
+  "dependencies": {
+    "mineflayer": "^4.3.0"
+  }
+}
